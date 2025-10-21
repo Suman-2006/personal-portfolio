@@ -50,7 +50,7 @@ personal-portfolio/
 ## 🚀 How to Run
 1. **Download** the folder or **clone the GitHub repository**:
    ```bash
-   git clone https://github.com/suman-2006/basic-calculator.git
+   git clone https://github.com/suman-2006/personal-portfolio.git
    ```
 2. Open the `index.html` file in any modern web browser.
 3. Use **mouse** or **keyboard** to perform calculations.
